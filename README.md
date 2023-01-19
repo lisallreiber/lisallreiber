@@ -2,7 +2,8 @@
 
 - 🔭 I'm passionate about the stuff everyone just wants to get over with: data wrangling and cleaning :heart:
 - 🌱 I’m currently learning data engineering at the Data Engineering Zoomcamp 2023
-- 👯 I’m looking to collaborate on tech4good projects (have you heard of @CorrelAid?)
+- 👯 I’m looking to collaborate on tech4good projects (have you heard of [@CorrelAid](https://github.com/CorrelAid)
+)
 - 🤔 I’m looking for help with developing low-budget infrastructure for non-profit organisations
 - 💬 Ask me about R & R-Markdown, the R-community or how to develop a data science career coming from academic background
 - 📫 How to reach me: twitter - @lisa_reiber
