@@ -6,7 +6,7 @@
 )
 - 🤔 I’m looking for help with developing low-budget infrastructure for non-profit organisations
 - 💬 Ask me about R & R-Markdown, the R-community or how to develop a data science career coming from academic background
-- 📫 How to reach me: twitter - @lisa_reiber
+- 📫 How to reach me on twitter: [@lisa_reiber](https://twitter.com/lisa_reiber)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: you will never guess what the two ll in my GH handle stand for ;)
 
